@@ -16,6 +16,7 @@ I'm currently engaged in the following learning endeavors:
 I'm actively seeking collaboration opportunities, specifically:
 - Internship opportunities in the field of human-computer interaction
 - Projects as a researcher in the intersection of AI and human-computer interaction with deeplearning.
+- projects that deals with database managemant and mobile application development.
 
 If you're working on similar projects or have collaboration ideas, I'd love to connect and discuss!
 
