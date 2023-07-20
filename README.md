@@ -14,8 +14,8 @@ I'm currently engaged in the following learning endeavors:
 
 ## Looking to Collaborate
 I'm actively seeking collaboration opportunities, specifically:
-- Internship opportunities with Microsoft in the field of human-computer interaction
-- Projects as a researcher in the intersection of AI and human-computer interaction
+- Internship opportunities in the field of human-computer interaction
+- Projects as a researcher in the intersection of AI and human-computer interaction with deeplearning.
 
 If you're working on similar projects or have collaboration ideas, I'd love to connect and discuss!
 
