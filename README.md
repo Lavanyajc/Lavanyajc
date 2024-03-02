@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm passionate about prompting and human-computer 
 
 ## Interests
 - Prompting
-- Human-computer interaction
-- Legal and ethical implications of AI
+-Natural language processing
+-python programming
 
 ## Current Learning
 I'm currently engaged in the following learning endeavors:
