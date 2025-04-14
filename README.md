@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Lavanya J C!
 
 Welcome to my GitHub!  
-I'm a **Cloud & DevOps enthusiast** currently working on hands-on AWS projects and preparing for the **AWS Solutions Architect – Associate** certification.
+I'm a **Cloud & DevOps enthusiast** currently working on hands-on AWS projects and preparing for the **AWS Solutions Architect**
 
 ---
 
