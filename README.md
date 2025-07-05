@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/LavanyaJC/LavanyaJC/blob/main/github-banner.png" alt="Lavanya J C Banner" />
+</p>
+
 <h1 align="center">👋 Hi there, I'm Lavanya J C</h1>
 <h3 align="center">🚀 Cloud & DevOps Enthusiast | AWS + Terraform | CI/CD | Infra as Code</h3>
 
