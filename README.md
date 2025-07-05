@@ -33,16 +33,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## 🏷️ Quick Profile
@@ -78,12 +68,14 @@
 ## 📁 Featured Projects
 
 ### 📄 Cloud Resume Challenge (Zero Cost AWS-Free Setup)
+A serverless, cost-free resume site with real-time visitor counter and automated deployment using Render deploy hooks.
 - Frontend: GitHub Pages + GoDaddy Custom Domain  
 - Backend: Go API on Render + MongoDB + Visitor Counter  
 - CI/CD: GitHub Actions → Build → Push to ECR → Deploy on EC2  
 🔗 [Project Repo](https://github.com/LavanyaJC/cloud-resume)
 
 ### 🛒 Dockerized E-commerce Platform
+A fully containerized e-commerce app with CI/CD pipeline and cloud deployment using Docker Compose and AWS.
 - Multi-tier app: Frontend + Python Backend + MongoDB  
 - Docker Compose setup with volumes and networking  
 - CI/CD integrated with GitHub Actions + AWS EC2 + ECR  
