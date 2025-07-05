@@ -1,23 +1,29 @@
-<h1 align="left">👋 Hi there, I'm Lavanya J C</h1>
-<h3 align="left">🚀 AWS Cloud & DevOps Engineer | Terraform | CI/CD | Infra as Code</h3>
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" width="70%">
+      <h1>👋 Hi there, I'm Lavanya J C</h1>
+      <h3>🚀 AWS Cloud & DevOps Engineer | Terraform | CI/CD | Infra as Code</h3>
+      <p>
+        <a href="mailto:jcla9686@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://github.com/LavanyaJC">
+          <img src="https://img.shields.io/github/followers/LavanyaJC?label=GitHub&style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://linkedin.com/in/yourprofile">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td align="right" width="30%">
+      <img src="https://github.com/LavanyaJC/LavanyaJC/blob/main/github-banner.png" alt="Lavanya J C Banner" width="240" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <a href="mailto:jcla9686@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/LavanyaJC">
-    <img src="https://img.shields.io/github/followers/LavanyaJC?label=GitHub&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="right">
-  <img src="https://github.com/LavanyaJC/LavanyaJC/blob/main/github-banner.png" alt="Lavanya J C Banner" width="250" />
-</p>
-
+<!-- Wavy line below both sections -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header" />
+
 
 
 
