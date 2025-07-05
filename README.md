@@ -24,10 +24,8 @@
 <!-- Wavy line below both sections -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header" />
 
-
-
-<p align="center" style="font-weight:bold; font-size:1.1rem; margin-top:0.5rem;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=1E90FF&width=600&lines=One+command+away+from+scaling+the+world." alt="Typing animation" />
+<p align="left" style="font-weight:bold; font-size:1.1rem; margin-top:0.5rem; max-width:600px; color:#008080;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=008080&width=600&lines=One+command+away+from+scaling+the+world." alt="Typing animation" />
 </p>
 
 
