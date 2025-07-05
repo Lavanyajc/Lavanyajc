@@ -22,12 +22,15 @@
 </table>
 
 <!-- Wavy line -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header" />
 
-<p align="left" style="margin-top:0.5rem;">
-  <img src="https://emoji.gg/assets/emoji/7307-stitch-dance.gif" width="28" style="vertical-align:middle;" alt="Stitch" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=D147E9&width=900&lines=I+don%E2%80%99t+just+deploy+%E2%80%94+I+automate+the+apocalypse." alt="Typing animation" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/JC-Tec/stitch-assets/main/stitch-sticker.png" width="32" style="vertical-align:middle;" alt="Stitch" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=D147E9&width=850&lines=I+don%E2%80%99t+just+deploy+%E2%80%94+I+automate+the+apocalypse." alt="Typing animation" />
 </p>
+
+
 
 
 
