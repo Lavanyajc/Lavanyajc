@@ -24,10 +24,17 @@
 <!-- Wavy line -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header" />
 
+
+<!-- Typing Animation Quote -->
 <p align="left">
-  <img src="https://github.com/Lavanyajc/Lavanyajc/raw/main/stitch.png" width="30" style="vertical-align:middle;" alt="Stitch" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=D147E9&width=850&lines=I+don%E2%80%99t+just+deploy+%E2%80%94+I+automate+the+apocalypse." alt="Typing animation" />
 </p>
+
+
+
+
+
+
 
 
 
