@@ -27,6 +27,12 @@
 
 
 
+<p align="center" style="font-weight:bold; font-size:1.1rem; margin-top:0.5rem;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=00bc8c&width=600&lines=The+cloud+isn%E2%80%99t+the+future.+It%E2%80%99s+the+now.+And+I%E2%80%99m+building+it..." alt="Typing animation" />
+</p>
+
+
+
 
 
 ---
