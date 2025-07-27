@@ -10,7 +10,7 @@
         <a href="https://github.com/LavanyaJC">
           <img src="https://img.shields.io/github/followers/LavanyaJC?label=GitHub&style=for-the-badge&logo=github" />
         </a>
-        <a href="https://linkedin.com/in/yourprofile">
+        <a href="https://linkedin.com/in/lavanyajc22">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
       </p>
