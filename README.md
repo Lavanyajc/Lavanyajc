@@ -82,7 +82,8 @@ A fully containerized e-commerce app with CI/CD pipeline and cloud deployment us
 🔗 [E-commerce Repo](https://github.com/LavanyaJC/ecommerce-app)
 
 ### 💡 DevOps & AWS Projects
-- [🔐 IAM Labs (Users, Policies, Permissions)](https://github.com/LavanyaJC/aws-iam-labs)  
+- [🔐 IAM Labs1 (Users, Policies, Permissions)](https://github.com/LavanyaJC/aws-iam-labs)
+- [🔐 IAM Labs2(Users, Policies, Permissions boundaries,cross user access& denial ,MFA)](https://github.com/Lavanyajc/IAM-EC2-S3/tree/main/IAM) 
 - [💻 EC2 CLI Labs + SSH](https://github.com/LavanyaJC/aws-ec2-labs)  
 - [🗂️ S3 CLI Upload/Download Projects](https://github.com/Lavanyajc/IAM-EC2-S3/tree/main/S3)  
 - [📦 Visitor Counter Backend (Go + MongoDB)](https://github.com/LavanyaJC/visitor-counter)
